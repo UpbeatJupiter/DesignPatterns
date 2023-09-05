@@ -42,6 +42,11 @@ Template Method
 Visitor
 Mediator
 ```
+
+## Credits
+https://www.dofactory.com/net/design-patterns
+https://dotnettutorials.net/course/dot-net-design-patterns/
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
